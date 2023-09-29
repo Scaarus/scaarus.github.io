@@ -30,8 +30,7 @@ github_username:  Scaarus
 # Build settings
 remote_theme: "godalming123/minimal"
 plugins:
-  - jekyll-remote-theme 
-  - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
